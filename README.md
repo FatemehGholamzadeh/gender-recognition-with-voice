@@ -29,15 +29,21 @@ Note that this is a part of your project.
 Write a Matlab script which can load an mp3 voice file and plot its power spectrum. 
 For example, power spectrum for v0.mp3 (a female speaker) will be :
 
+![image](https://user-images.githubusercontent.com/44861408/134876678-984669c7-d872-4bbf-be9a-8dca0484f5c0.png)
+
 
 And for v1.mp3 (a male speaker) will be :
 
-Step 3 
+![image](https://user-images.githubusercontent.com/44861408/134876731-2c986187-4161-46b1-98bf-d979d03d657e.png)
+
+
+### Step 3 
 Write a Matlab function which gets an mp3 file address as input and returns the peak frequency of its 
 power spectrum and using this function, write a Matlab script which gets address of a folder 
 containing unlabeled voice samples and label them with male/female according to mentioned peak 
 frequencies. 
-Step 4 
+
+### Step 4 
 Propose any methods that can be used to improve the accuracy of our gender recognition system. 
 Note that this is a part of your project. 
 
