@@ -22,7 +22,7 @@ Peak frequency is measured as 122 Hz for male speakers 212 Hz for females
 ### Step 1 
 
 You need to watch the tutorial about Fourier transform for spectral analysis [3] that can be 
-downloaded from here : http://s5.picofile.com/file/8362458226/spectral_analysis.zip.html
+downloaded from here : http://s5.picofile.com/file/8362458226/spectral_analysis.zip.html 
 Note that this is a part of your project. 
 
 ### Step 2 
