@@ -49,4 +49,6 @@ Note that this is a part of your project.
 
 
 ## References 
-[1] https://erikbern.com/2017/02/01/language-pitch.html  [2] http://accent.gmu.edu  [3] https://www.udemy.com/signal-processing/
+[1] https://erikbern.com/2017/02/01/language-pitch.html  
+[2] http://accent.gmu.edu  
+[3] https://www.udemy.com/signal-processing/
